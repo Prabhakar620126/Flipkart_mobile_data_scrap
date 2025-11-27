@@ -26,14 +26,18 @@ This scraper solves the problem by:
 
  ## 📂 3. Raw Data (Scraping Result)
 📥 Download Final Scraping Output (CSV)
+
 [all_mobile_data.xlsx](https://github.com/Prabhakar620126/Flipkart_mobile_data_scrap/blob/main/Mobile_phone_data_from_Flipkart.xlsx )
 
 ## 🖼 4. Screenshots (Before & After Scraping)
+
 🔍 Before Scraping – <a href="https://github.com/Prabhakar620126/Flipkart_mobile_data_scrap/blob/main/flipkart.png">Flipkart Website View</a>
+
 📊 After Scraping – <a href="https://github.com/Prabhakar620126/Flipkart_mobile_data_scrap/blob/main/mobile_data.png">Terminal Output</a>
 
 ## 🛠 5. Python Code File
 🐍 View Python Script
+
 [scraper.py](https://github.com/Prabhakar620126/Flipkart_mobile_data_scrap/blob/main/Mobile_data_from_multiple_page.ipynb )
 
 
