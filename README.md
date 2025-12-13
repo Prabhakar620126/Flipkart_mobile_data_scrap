@@ -103,7 +103,7 @@ This project scrapes data for the following brands:
 | 🎯 **Clean structured data**      | CSV output for analysis or ML                |
 | 🔧 **Fully customizable**         | Add/remove brands or fields easily           |
 
-  ## 📌 11. Ethical Disclaimer (Important)
+  ## 📌 11. Ethical Disclaimer 
 Flipkart website content belongs to Flipkart Pvt. Ltd.
 This project is for educational and research purposes only.
 ✔ We follow ethical scraping guidelines:
@@ -113,7 +113,7 @@ This project is for educational and research purposes only.
   - No login, no bypassing security
 ❌ Do not use scraped data for commercial resale.
 
-## 📥 12. Future Enhancements (Optional)
+## 📥 12. Future Enhancements 
   - Add AI-based sentiment analysis of reviews
   - Add price prediction model
   - Add SQLite database storage
